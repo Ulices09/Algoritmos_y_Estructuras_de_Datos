@@ -1,0 +1,83 @@
+﻿  ArbolRN.cpp
+  Arma.cpp
+  Atributo.cpp
+  Enemigo.cpp
+  Imagen.cpp
+Imagen.cpp(27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  JuegoController.cpp
+JuegoController.cpp(99): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(100): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(108): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(116): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(124): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(132): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(140): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(148): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(156): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(166): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(294): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(378): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(452): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(542): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(643): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(727): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(803): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(894): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(968): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(990): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+JuegoController.cpp(1007): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+JuegoController.cpp(1011): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+JuegoController.cpp(1336): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+JuegoController.cpp(1370): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(1371): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(1372): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(1373): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(1374): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(1375): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(1376): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(1377): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(1378): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(1382): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(1383): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(1384): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(1385): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(1386): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(1387): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(1388): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(1389): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(1395): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(1401): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(1407): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(1413): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(1419): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(1425): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(1431): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(1437): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(1443): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(1452): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(1458): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(1464): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(1470): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(1476): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(1482): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(1488): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(1494): warning C4018: '<': signed/unsigned mismatch
+JuegoController.cpp(1747): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+JuegoController.cpp(1749): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+JuegoController.cpp(1751): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+JuegoController.cpp(1753): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+  Jugador.cpp
+Jugador.cpp(41): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Jugador.cpp(82): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Mapa.cpp
+Mapa.cpp(37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Mision.cpp
+  ObjetoAnimado.cpp
+  Personaje.cpp
+Personaje.cpp(23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Zona.cpp
+  Generating Code...
+  MyForm.cpp
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  AlgoritmosTrabajoFinal.vcxproj -> C:\Users\win7\Desktop\Repo\Nueva carpeta\AlgoritmosTrabajoFinal\Debug\AlgoritmosTrabajoFinal.exe
+  AlgoritmosTrabajoFinal.vcxproj -> C:\Users\win7\Desktop\Repo\Nueva carpeta\AlgoritmosTrabajoFinal\Debug\AlgoritmosTrabajoFinal.pdb (Full PDB)

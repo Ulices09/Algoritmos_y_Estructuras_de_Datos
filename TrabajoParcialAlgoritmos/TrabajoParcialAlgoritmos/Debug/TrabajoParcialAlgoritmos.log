@@ -1,0 +1,17 @@
+﻿  CFondo.cpp
+  CLista.cpp
+  CNodo.cpp
+CNodo.cpp(34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+CNodo.cpp(35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+CNodo.cpp(41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+CNodo.cpp(42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  MyForm.cpp
+c:\users\win7\desktop\repo\nueva carpeta\trabajoparcialalgoritmos\trabajoparcialalgoritmos\CNodo.cpp(34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\win7\desktop\repo\nueva carpeta\trabajoparcialalgoritmos\trabajoparcialalgoritmos\CNodo.cpp(35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\win7\desktop\repo\nueva carpeta\trabajoparcialalgoritmos\trabajoparcialalgoritmos\CNodo.cpp(41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\win7\desktop\repo\nueva carpeta\trabajoparcialalgoritmos\trabajoparcialalgoritmos\CNodo.cpp(42): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+MyForm.cpp(5): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  .NETFramework,Version=v4.0.AssemblyAttributes.cpp
+  TrabajoParcialAlgoritmos.vcxproj -> C:\Users\win7\Desktop\Repo\Nueva carpeta\TrabajoParcialAlgoritmos\Debug\TrabajoParcialAlgoritmos.exe
+  TrabajoParcialAlgoritmos.vcxproj -> C:\Users\win7\Desktop\Repo\Nueva carpeta\TrabajoParcialAlgoritmos\Debug\TrabajoParcialAlgoritmos.pdb (Full PDB)
